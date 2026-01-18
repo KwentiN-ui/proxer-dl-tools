@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+lib/proxer_utils.py
+lib/script_utils.py
+proxer_dl_tools.egg-info/PKG-INFO
+proxer_dl_tools.egg-info/SOURCES.txt
+proxer_dl_tools.egg-info/dependency_links.txt
+proxer_dl_tools.egg-info/requires.txt
+proxer_dl_tools.egg-info/top_level.txt
